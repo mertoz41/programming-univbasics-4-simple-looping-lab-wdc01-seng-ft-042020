@@ -9,10 +9,10 @@ end
 
 
 def loop_message_n_times (message, integer)
-  i = integer 
-  while i < integer do 
+  n = integer 
+  while n < integer do 
     puts message 
-    i += 1 
+    n += 1 
   end 
 end 
 
