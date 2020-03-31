@@ -19,7 +19,8 @@ end
 def output_array(array)
   n = 0 
   while n < array.length do 
-    array[count]
+    puts array[count]
+    
     count += 1 
   end 
 end 
